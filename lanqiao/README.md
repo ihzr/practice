@@ -1,2 +1,2 @@
 # lanqiao
-this's my exercise for lanqiao competition
+this's my practice for lanqiao competition

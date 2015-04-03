@@ -1,1 +1,1 @@
-for my oj practice
+just for my oj practice
